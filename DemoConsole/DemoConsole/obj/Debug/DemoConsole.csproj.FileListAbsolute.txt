@@ -1,6 +1,0 @@
-C:\A557652\GIT\RepoDemo\DemoConsole\DemoConsole\bin\Debug\DemoConsole.exe.config
-C:\A557652\GIT\RepoDemo\DemoConsole\DemoConsole\bin\Debug\DemoConsole.exe
-C:\A557652\GIT\RepoDemo\DemoConsole\DemoConsole\bin\Debug\DemoConsole.pdb
-C:\A557652\GIT\RepoDemo\DemoConsole\DemoConsole\obj\Debug\DemoConsole.csprojResolveAssemblyReference.cache
-C:\A557652\GIT\RepoDemo\DemoConsole\DemoConsole\obj\Debug\DemoConsole.exe
-C:\A557652\GIT\RepoDemo\DemoConsole\DemoConsole\obj\Debug\DemoConsole.pdb
